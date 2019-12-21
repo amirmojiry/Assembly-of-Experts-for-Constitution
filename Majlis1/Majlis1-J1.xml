@@ -49,7 +49,7 @@
 <section type="heading">
 2- اعلام رسمیت جلسه و تلاوت آیاتى چند از قرآن مجید
 </section>
-<section type="speech" speaker-number="39" speaker="رئیس" role="president">
+<section type="speech" speaker-number="39" speaker="رئیس" role="speaker">
 رئیس- رسمیت جلسه اعلام مى‏شود، ابتدا چند آیه از کلام الله مجید قرائت مى‏شود.
 </section>
 <section type="event">
@@ -64,7 +64,7 @@
 <section type="heading">
 3- اجراى سرود «الم نشرح لک صدرک» توسط گروه سرود حسینیه ارشاد
 </section>
-<section type="speech" speaker-number="39" speaker="رئیس" role="president">
+<section type="speech" speaker-number="39" speaker="رئیس" role="speaker">
 رئیس- اکنون توسط عده‏اى از جوانان حسینیه ارشاد سرود «الم نشرح» خوانده مى‏شود:
 </section>
 <section type="speech" speaker-number="0" speaker="عده ای از جوانان حسینیه ارشاد" role="other">
@@ -131,7 +131,7 @@
 <section type="heading">
 4- قرائت پیام حضرت آیت الله العظمى امام خمینى رهبر انقلاب اسلامى ایران در مورد قانون اساسى توسط حجت الاسلام‏هاشمى رفسنجانى‏
 </section>
-<section type="speech" speaker-number="39" speaker="رئیس" role="president">
+<section type="speech" speaker-number="39" speaker="رئیس" role="speaker">
 رئیس- پیام حضرت آیت الله امام خمینى قرائت مى‏شود. آقاى هاشمى رفسنجانى بفرمایید.
 </section>
 <section type="speech" speaker-number="0" speaker="هاشمى رفسنجانى" role="other">
@@ -8162,5 +8162,6 @@ __________________________________________________
 نایب رئیس- توجه بفرمایید ما فردا صبح ساعت ده و سی دقیقه تا دوازده جلسة فوق‏العاده خواهیم داشت، جلسه ختم می‏شود.
  (جلسه ساعت هجده پایان یافت)
 نایب رئیس مجلس بررسی نهایی قانون اساسی- دکتر سید محمد حسینی بهشتی‏
+</section>
 </section>
 </section>
