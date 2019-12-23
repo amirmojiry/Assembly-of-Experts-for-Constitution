@@ -12,7 +12,7 @@ I use xml scheme for anootation in this project. Every part of each file, separa
 - **page**: based on pages of each book.
 	* __number__: number of page in this book.
 - **title**: title of book.
-- **time-presidency**: description of date, time and speaker of this session.
+- **time-leadership**: description of date, time and speaker of this session.
 - **list**: a list of headings on each session.
 	* __number__: numbers of headings of this session.
 - **description**: description about other people (except main members of the parliment) that attended in session.
