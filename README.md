@@ -23,3 +23,7 @@ I use xml scheme for anootation in this project. Every part of each file, separa
 	* __speaker-number__: if this speech has been talked by a member of parliment, number of member is written here. if not, 0 is written.
 	* __speaker__: the name of speaker that mentioned in the book.
 	* __role__: role of the speaker that has spoken. this feature contains this values: speaker, deputy-speaker, member, other.
+
+# Regex guideline
+- Find paragraphs: ((\n|^).*?(?=\n|$))
+- Regex for not all but many of events: (\n(\(.*?\))\r)
