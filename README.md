@@ -5,10 +5,13 @@
 # Scheme
 I use xml scheme for anootation in this project. Every part of each file, separates with **"section"** (if the part is block-line) or **"span"** (if the part is in-line) label. each section or span has one or many feature/value. **"type"** is a feature for all the sections and spans.
 
-## Type of sesctions and spans.
+## Types of sesctions and spans.
 - **session**: based on sessions of each parliment.
 	* __number__: number of session on this parliment.
 	* __title__: title of session based on that mentions on the book. normally persian number of session.
+	* __date__: date of session based on Gregorian calendar with this format: "YYYY-MM-dd" (ex. 2020-01-17).
+	* __start-time__: start time of session based on local time (Tehran time: GMT+3:30) with this format: "hh:mm" (ex. 13:00).
+	* __end-time__: end time of session based on local time (Tehran time: GMT+3:30) with this format: "hh:mm" (ex. 13:00).
 - **page**: based on pages of each book.
 	* __number__: number of page in this book.
 - **title**: title of book.
