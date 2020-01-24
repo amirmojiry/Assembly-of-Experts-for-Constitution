@@ -15,9 +15,18 @@ I use xml scheme for anootation in this project. Every part of each file, separa
 - **page**: based on pages of each book.
 	* __number__: number of page in this book.
 - **title**: title of book.
-- **time-leadership**: description of date, time and speaker of this session.
+- **time-speaker**: description of date, time and speaker of this session.
+	* __date__: date of session based on Gregorian calendar with this format: "YYYY-MM-dd" (ex. 2020-01-17).
+	* __hijri-date__: date of session based on Islamic Hijri calendar with this format: "YYYY-MM-dd" (ex. 1399-07-20).
+	* __solar-date__: date of session based on Solar Hijri calendar with this format: "YYYY-MM-dd" (ex. 1358-10-25).
+	* __start-time__: start time of session based on local time (Tehran time: GMT+3:30) with this format: "hh:mm" (ex. 13:00).
+	* __speaker-number__: the speaker number of this session.
+	* __speaker__: the speaker name of this session that mentioned in the book.
 - **list**: a list of headings on each session.
 	* __number__: numbers of headings of this session.
+- **list-title**: title of list.
+- **list-item**: each item of this list.
+	* __item-number__: the number of this item of list.
 - **description**: description about other people (except main members of the parliment) that attended in session.
 - **signature**: legal sign and confirmation of producer of book or the speaker of parliment.
 - **heading**: heading of each part of this session.
